@@ -14,3 +14,4 @@ Two approaches to the problem are shown in this sample:
 1. Not shifting the accessibility focus and using an accessibilityLiveRegion to announce the error message.
 2. Shifting the accessibility focus, then posting a change to the error message accessibilityLiveRegion. This approach seems to sequence events properly and achieve both objectives.
 
+![Screenshot_20220216-095904 A11yInputErrorTest](https://user-images.githubusercontent.com/85311885/154292806-f35c228c-125e-4aed-b9b2-b2d7bfb00e83.png)
